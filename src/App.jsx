@@ -117,6 +117,7 @@ export default function App() {
       <footer>
         <p>© 2025 Ahadu Designs. Crafted with passion.</p>
       </footer>
+      <Analytics/>
     </div>
   );
 }
