@@ -310,6 +310,12 @@ footer {
   .work-card img {
     height: 180px;
   }
+
+  .contact{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
 }
 
 
